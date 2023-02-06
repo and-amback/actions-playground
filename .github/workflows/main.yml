@@ -1,4 +1,4 @@
-name: "Data Atual"
+name: "Exercício 1: Data Atual"
 
 on:
   push:
